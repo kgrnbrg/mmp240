@@ -1,0 +1,64 @@
+/*!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+/*Universal Selector*/*/
+*{
+	padding:0;
+	margin:0;
+
+}
+/*removes all default padding & margin*/  
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+/*
+body{
+	width:650px;
+	margin:0 auto;
+}
+*/
+/*gives page a width and centers it(margin)*/
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+/*body{
+    width:650px;
+    margin:0 auto;
+    font-size: 14px;
+    line-height: 20px;
+    font-family: Georgia,"Times New Roman" serif;
+}*/
+
+/*sets base font-size, line-height and font-family*/
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+/*h1,h2,h3,h4,h5,h6{
+	margin-top:0.7em;
+	margin-bottom: 0.3em;
+	font-family: "Gill Sans", Calibri, Sans-serif
+}*/
+
+/*Give all headers a font different from body*/
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+ 
+/* h1{
+ 	font-size: 62px;
+ 	line-height: 64px;
+ }
+ h2{ 
+ 	font-size: 44px;
+ 	line-height:48px;
+ }
+ */
+ /*individually set the font-size and line-height*/
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+ 
+ /*p{
+ 	margin-bottom: 1em;
+  }
+  */
+ /*just what you need to add to the body defaults*/
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+ 
+/* #wrapper{
+ 	background-color: #eee;
+ 	padding: 20px;
+ }
+*/
+ /*wrapper allows us to have extra style options*/
+/*wrapper styles help define the page
